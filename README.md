@@ -6,4 +6,4 @@ A flutter tasks app
 Structure - MVVM Architecture
 State management - BLoc
 Data approach - Local Database (Flutter Hive)
-Time Taken - 6 Hours
+Time Taken - 1 Hours
